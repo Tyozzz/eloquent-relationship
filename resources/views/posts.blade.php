@@ -19,6 +19,10 @@
                             <th>Judul Post</th>
                             <th>Komentar</th>
                         </tr>
+                        <tr>
+                            <th>Judul Post 1</th>
+                            <th>Terimakasih santri koding yang sudah memberikan ilmu kepada saya dan selalu membantu saya dalam belajar</th>
+                        </tr>
                     </thead>
                     <tbody>
                         @foreach($posts as $post)
