@@ -19,6 +19,10 @@
                             <th>Nama User</th>
                             <th>Nomor Telepon</th>
                         </tr>
+                        <tr>
+                            <th>Satrio Nugroho</th>
+                            <th>081280230162</th>
+                        </tr>
                     </thead>
                     <tbody>
                         @foreach($users as $user)
